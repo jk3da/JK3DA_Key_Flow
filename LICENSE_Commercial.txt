@@ -1,0 +1,166 @@
+================================================================
+JK3DA KeyFlow — Commercial Support License
+================================================================
+
+Copyright (C) 2025 JK3DA
+https://jk3da.com
+
+Thank you for supporting JK3DA KeyFlow.
+
+Overview
+--------
+JK3DA KeyFlow is free and open-source software released under
+the GNU General Public License v3.0 (GPL-3.0).
+
+Under the GPL, all users already receive the right to use,
+modify, and redistribute the software, including commercial use.
+
+This Commercial Support License exists for studios, freelancers,
+and companies who wish to financially support development and
+maintain formal procurement or production records.
+
+What You Receive
+----------------
+By purchasing this support license, you receive:
+
+  - A formal commercial support license document
+  - Written acknowledgment for studio/procurement records
+  - Full source code access under GPL-3.0
+  - Access to updates if and when released
+  - Directly packaged official releases from JK3DA
+
+Permitted Use
+-------------
+You may:
+
+  - Use JK3DA KeyFlow in commercial productions
+  - Use it in freelance and studio pipelines
+  - Use it for streaming, tutorials, and content creation
+  - Modify the source code for internal purposes
+  - Redistribute the software under GPL-3.0 terms
+
+GPL Notice
+----------
+JK3DA KeyFlow remains licensed under GPL-3.0.
+Nothing in this document restricts the freedoms granted by
+the GPL license.
+
+No Warranty
+-----------
+This software is provided "as is", without warranty of any kind,
+express or implied.
+
+The author shall not be liable for any claim, damages, or other
+liability arising from the use of this software.
+
+Support
+-------
+Purchasing this license does not guarantee:
+  - Technical support
+  - Response times
+  - Future updates
+  - Feature requests
+
+Optional support and updates may be provided voluntarily.
+
+Official Website
+----------------
+https://jk3da.com
+
+Shop / Support Development
+--------------------------
+https://jk3da.com/shop
+
+Development Note
+----------------
+This add-on was created by JK3DA with assistance from AI tools
+including Claude (Anthropic) and GitHub Copilot.
+
+All artistic direction, implementation decisions, testing,
+and validation were performed by JK3DA.
+
+Full GPL License
+----------------
+https://www.gnu.org/licenses/gpl-3.0.html
+
+================================================================
+JK3DA KeyFlow — Kommerzielle Support-Lizenz
+================================================================
+
+Copyright (C) 2025 JK3DA
+https://jk3da.com
+
+Danke, dass du JK3DA KeyFlow unterstützt.
+
+Überblick
+---------
+JK3DA KeyFlow ist freie Open-Source-Software unter der
+GNU General Public License v3.0 (GPL-3.0).
+
+Die GPL erlaubt allen Nutzern die freie Nutzung,
+Bearbeitung und Weiterverbreitung — auch kommerziell.
+
+Diese kommerzielle Support-Lizenz richtet sich an Studios,
+Freelancer und Unternehmen, die die Entwicklung unterstützen
+und ein formelles Lizenzdokument für ihre Unterlagen benötigen.
+
+Du erhältst
+-----------
+  - Ein formelles kommerzielles Lizenzdokument
+  - Schriftliche Bestätigung für Studio-/Projektunterlagen
+  - Vollständigen Quellcode unter GPL-3.0
+  - Zugriff auf Updates sofern veröffentlicht
+  - Offizielle Releases direkt von JK3DA
+
+Erlaubte Nutzung
+----------------
+Du darfst:
+
+  - JK3DA KeyFlow in kommerziellen Produktionen verwenden
+  - Das Add-on in Studio- und Freelancer-Pipelines einsetzen
+  - Es für Tutorials, Streaming und Content Creation nutzen
+  - Den Quellcode intern anpassen
+  - Die Software gemäß GPL-3.0 weiterverbreiten
+
+GPL-Hinweis
+------------
+JK3DA KeyFlow bleibt vollständig unter GPL-3.0 lizenziert.
+Dieses Dokument schränkt die durch die GPL gewährten Rechte
+nicht ein.
+
+Keine Garantie
+---------------
+Die Software wird ohne jegliche Garantie bereitgestellt.
+
+Der Autor übernimmt keine Haftung für Schäden oder Probleme,
+die durch die Nutzung der Software entstehen.
+
+Support
+-------
+Der Kauf dieser Lizenz garantiert nicht:
+  - technischen Support
+  - Reaktionszeiten
+  - zukünftige Updates
+  - neue Features
+
+Freiwilliger Support und Updates können bereitgestellt werden.
+
+Offizielle Website
+------------------
+https://jk3da.com
+
+Shop / Entwicklung unterstützen
+-------------------------------
+https://jk3da.com/shop
+
+Entwicklungs-Hinweis
+--------------------
+Dieses Add-on wurde von JK3DA mit Unterstützung von KI-Tools
+wie Claude (Anthropic) und GitHub Copilot entwickelt.
+
+Konzept, Design, Entscheidungen, Tests und Validierung
+wurden vollständig von JK3DA durchgeführt.
+
+Vollständiger GPL-Lizenztext
+----------------------------
+https://www.gnu.org/licenses/gpl-3.0.html
